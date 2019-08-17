@@ -1,5 +1,9 @@
 WeatherGo
 --------------
+
+SEE https://github.com/gidoBOSSftw5731/yahooweather
+
+
 WeatherGo is a **Golang** package for command line weather tool for users to get weather information in the U.S. Built with **Go** programming language, WeatherGo is able to query Yahoo Weather API with high speed. 
 
 ####Install
